@@ -1,7 +1,5 @@
 # Hi, I'm Ting
 
-Software Engineer
-
 ## About Me
 
 A software engineer passionate about leveraging AI and system architecture design.
