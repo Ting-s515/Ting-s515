@@ -1,10 +1,13 @@
 # Hi, I'm Ting
 
-Software Engineer | Backend Development
+Software Engineer
 
 ## About Me
 
-透過部落格記錄技術筆記，期望未來能參與開源社群專案。
+熱衷於榨乾AI與系統架構設計的軟體工程師。
+
+- 📝 透過部落格記錄技術筆記與學習心得
+- 🌱 持續學習中，期望未來能參與開源社群專案
 
 ## Tech Stack
 
@@ -27,5 +30,5 @@ Software Engineer | Backend Development
 
 ## Links
 
-[![Blog](https://img.shields.io/badge/Blog-ting--s515.github.io-blue?style=flat-square)](https://ting-s515.github.io/)
+[![Blog](https://img.shields.io/badge/Blog-ting--s515.github.io-blue?style=flat-square)](https://ting-s515.github.io/ting-blog/)
 [![GitHub](https://img.shields.io/badge/GitHub-Ting--s515-181717?style=flat-square&logo=github)](https://github.com/Ting-s515)
