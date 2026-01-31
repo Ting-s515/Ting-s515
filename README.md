@@ -4,10 +4,10 @@ Software Engineer
 
 ## About Me
 
-熱衷於榨乾AI與系統架構設計的軟體工程師。
+A software engineer passionate about leveraging AI and system architecture design.
 
-- 📝 透過部落格記錄技術筆記與學習心得
-- 🌱 持續學習中，期望未來能參與開源社群專案
+- 📝 Documenting technical notes and learning insights through blogging
+- 🌱 Continuously learning, hoping to contribute to open source projects in the future
 
 ## Tech Stack
 
