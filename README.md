@@ -28,5 +28,5 @@ A software engineer passionate about leveraging AI and system architecture desig
 
 ## Links
 
-[![Blog](https://img.shields.io/badge/Blog-ting--s515.github.io-blue?style=flat-square)](https://ting-s515.github.io/ting-blog/)
+[![Blog](https://img.shields.io/badge/Blog-ting--blog.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://ting-blog.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Ting--s515-181717?style=flat-square&logo=github)](https://github.com/Ting-s515)
